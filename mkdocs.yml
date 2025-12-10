@@ -16,27 +16,28 @@ theme:
     primary: deep orange
 
 # Hafta Hafta Navigasyon (GÜNCELLENDİ)
+# Hafta Hafta Navigasyon (DÜZELTİLMİŞ PATH'LER)
 nav:
   - Ana Sayfa: index.md
   - 1. Hafta:
-    - Konular ve Sorular: python_week1_questions.md
-    - Çözümler: python_week1_solutions.py
-  - 2. Hafta: python_week2_materials.md
-  - 3. Hafta: python_week3_materials.md
+    - Konular ve Sorular: Hafta 1/python_week1_questions.md # Klasör eklendi
+    - Çözümler: Hafta 1/python_week1_solutions.py          # Klasör eklendi
+  - 2. Hafta: Hafta 2/python_week2_materials.md           # Klasör eklendi
+  - 3. Hafta: Hafta 3/python_week3_materials.md           # Klasör eklendi
   - 4. Hafta:
-    - Materyal 1: python_week4_materials.md
-    - Çözümler: python_week4_solutions.py
+    - Materyal: Hafta 4/python_week4_materials.md
+    - Çözümler: Hafta 4/python_week4_solutions.py
   - 5. Hafta:
-    - Materyaller: python_week5_materials.md
-    - Çözümler: python_week5_solutions.py
+    - Materyaller: Hafta 5/python_week5_materials.md
+    - Çözümler: Hafta 5/python_week5_solutions.py
   - 6. Hafta: 
-    - Materyaller: python_week6_materials.md
-    - Çözümler: python_week6_solutions.py
+    - Materyaller: Hafta 6/python_week6_materials.md
+    - Çözümler: Hafta 6/python_week6_solutions.py
   - 7. Hafta:
-    - Materyaller: python_week7_materials.md
-    - Mini Sınav: python_week7_mini_exam.md
+    - Materyaller: Hafta 7/python_week7_materials.md
+    - Mini Sınav: Hafta 7/python_week7_mini_exam.md
   - Sınav Hazırlık:
-    - Sınav Alıştırması (4 Soru): python_practice_exam_4q.md
-    - Cevap Anahtarı: python_practice_exam_4q_answers.py
-  - Ozetler:
-    - ilk 5 haftanin ozeti: python_5week_summary.md
+    - Sınav Alıştırması (4 Soru): Sinavlar/python_practice_exam_4q.md # Klasör eklendi
+    - Cevap Anahtarı: Sinavlar/python_practice_exam_4q_answers.py     # Klasör eklendi
+  - Özetler: 
+    - İlk 5 Haftanın Özeti: Ozetler/python_5week_summary.md          # Klasör eklendi
