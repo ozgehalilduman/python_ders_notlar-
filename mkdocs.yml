@@ -1,0 +1,42 @@
+site_name: Python Ders Notları (2025-2026)
+site_url: https://ozgehalilduman_python.netlify.app/
+repo_url: https://github.com/ozgehalilduman/python_ders_notlar-
+repo_name: GitHub Deposu
+
+theme:
+  name: material
+  language: tr
+  features:
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+    - search.suggest
+  palette:
+    scheme: slate
+    primary: deep orange
+
+# Hafta Hafta Navigasyon (GÜNCELLENDİ)
+nav:
+  - Ana Sayfa: index.md
+  - 1. Hafta:
+    - Konular ve Sorular: python_week1_questions.md
+    - Çözümler: python_week1_solutions.py
+  - 2. Hafta: python_week2_materials.md
+  - 3. Hafta: python_week3_materials.md
+  - 4. Hafta:
+    - Materyal 1: python_week4_materials.md
+    - Çözümler: python_week4_solutions.py
+  - 5. Hafta:
+    - Materyaller: python_week5_materials.md
+    - Çözümler: python_week5_solutions.py
+  - 6. Hafta: 
+    - Materyaller: python_week6_materials.md
+    - Çözümler: python_week6_solutions.py
+  - 7. Hafta:
+    - Materyaller: python_week7_materials.md
+    - Mini Sınav: python_week7_mini_exam.md
+  - Sınav Hazırlık:
+    - Sınav Alıştırması (4 Soru): python_practice_exam_4q.md
+    - Cevap Anahtarı: python_practice_exam_4q_answers.py
+  - Ozetler:
+    - ilk 5 haftanin ozeti: python_5week_summary.md

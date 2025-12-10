@@ -1,0 +1,5 @@
+[build]
+  # Sitenizi oluşturmak için çalıştırılacak komut
+  command = "pip install -r requirements.txt && mkdocs build"
+  # Oluşturulan statik dosyaların bulunduğu klasör
+  publish = "site"
