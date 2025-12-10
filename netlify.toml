@@ -1,5 +1,4 @@
 [build]
-  # Sitenizi oluşturmak için çalıştırılacak komut
-  command = "pip install -r requirements.txt && mkdocs build"
-  # Oluşturulan statik dosyaların bulunduğu klasör
+  # mkdocs komutu yerine, python -m mkdocs yapısını kullanıyoruz.
+  command = "pip install -r requirements.txt && python -m mkdocs build"
   publish = "site"
