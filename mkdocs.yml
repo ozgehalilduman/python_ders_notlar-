@@ -37,6 +37,10 @@ nav:
     - Materyaller: Hafta 7/python_week7_materials.md
     - Mini Sınav: Hafta 7/python_week7_mini_exam.md
     - Mini Sınav Cevapları: Hafta 7/python_week7_mini_exam_solutions.py
+  - 8. Hafta:
+    - Materyaller: Hafta 8/python_week8_materials.md
+    - Mini Sınav: Hafta 8/python_week8_mini_exam.md
+    - Mini Sınav Cevapları: Hafta 8/python_week8_mini_exam_solutions.py
   - Sınav Hazırlık:
     - Sınav Alıştırması (4 Soru): Sinavlar/python_practice_exam_4q.md # Klasör eklendi
     - Cevap Anahtarı: Sinavlar/python_practice_exam_4q_answers.py     # Klasör eklendi
